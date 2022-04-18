@@ -11,3 +11,23 @@
 .header__logo img {
   width: 100%;
 }
+
+.header__official {
+  font-family: 'MuseoModerno';
+  font-weight: 500;
+  font-size: 18px;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.header__official span {
+  display: block;
+  font-size: 18px;
+}
+
+.header__phone {
+  display: block;
+  font-weight: 700;
+  font-size: 18px;
+  color: #FFFFFF;
+}
