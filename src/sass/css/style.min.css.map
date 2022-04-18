@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,AAAC,CACE,WAAW,CAAE,6BAA6B,CAC7C,AACD,AAAA,UAAU,AAAE,CACR,SAAS,CAAE,KAAK,CAChB,MAAM,CAAE,MAAM,CACjB,ACND,AAAA,MAAM,AAAC,CACH,UAAU,CAAE,KAAK,CACjB,OAAO,CAAE,aAAa,CACtB,UAAU,CAAE,qBAAqB,CAAC,MAAM,CAAC,YAAc,CAAC,SAAS,CACpE,ACJD,AAAA,OAAO,AAAC,CACJ,OAAO,CAAE,IAAI,CACb,eAAe,CAAE,aAAa,CAC9B,WAAW,CAAE,MAAM,CAOtB,AANI,AAAD,aAAO,AAAC,CACJ,KAAK,CAAE,KAAK,CAIf,AALA,AAEG,aAFG,CAEH,GAAG,AAAC,CACA,KAAK,CAAE,IAAI,CACd",
+    "sources": [
+        "../blocks/style.scss",
+        "../blocks/_promo.scss",
+        "../blocks/_header.scss"
+    ],
+    "names": [],
+    "file": "style.min.css"
+}
