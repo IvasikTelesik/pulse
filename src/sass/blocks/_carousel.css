@@ -8,7 +8,7 @@
   margin: 0 auto;
 }
 
-.carousel .slick-prev .slick-next {
+.carousel .prev {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
@@ -17,12 +17,24 @@
   background-color: #fff;
 }
 
-.carousel .slick-prev .slick-next img {
+.carousel .prev img {
   width: 31px;
   height: 50px;
 }
 
-.carousel .slick-next {
+.carousel .next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
   right: -66px;
   left: auto;
+  border: none;
+  background-color: #fff;
+  width: 32px;
+  height: 50px;
+}
+
+.carousel .next img {
+  width: 31px;
+  height: 50px;
 }
